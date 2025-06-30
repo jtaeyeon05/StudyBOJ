@@ -3,6 +3,8 @@
     "target": "ES2020",
     "module": "commonJS",
     "types": ["node"],
+    "isolatedModules": true,
+    "moduleDetection": "force",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
