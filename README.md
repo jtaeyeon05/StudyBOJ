@@ -7,4 +7,5 @@
 > Problem Solving (Codeforces, LeetCode, ~~Baejoon Online Judge~~)
 
 ### 플랫폼
-~~- [Baekjoon Online Judge](./Baekjoon-Online-Judge)~~
+- [LeetCode](./LeetCode)
+- ~~[Baekjoon Online Judge](./Baekjoon-Online-Judge)~~
